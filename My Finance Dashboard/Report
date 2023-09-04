@@ -1,5 +1,7 @@
-This is a Dashboard Based on codebasics(youtube) personal Finance Project. The data contains personnel Finance Metrics like Salary ,Expenses and Savings b/w 2018- 2021 spreading on different components like Household, Mutual funds etc...
+#MyFirstFinanceDashboard
+This is a Finance Dashboard Based on codebasics (youtube) Personal Finance Project reimagined by me.
+The data contains personnel Finance Metrics like Salary ,Expenses and Savings b/w 2018- 2021 spreading on different components like Household, Mutual funds etc...
 
-In this I used Power Query for data transformations and cleaninng techniques such as Unpivoting then used DAX measures to Calculate several key Metricies namely Total Income, Total Saving, Total Expenses Cumalative Net Worth and many others.
+In this I used #PowerQuery for data transformations and cleaning techniques such as Unpivoting then used #DAX measures to Calculate several key metrices namely Total Income, Total Saving, Total Expenses Cumulative Net Worth and many others.
 
-For The Visualization part I used visuals like Slicers for different year and month view of key Metrices, Table Chart for an Overview , Clustered Bar Chart for comparsions of different components and Cards for Important KPIs.
+For the Analysis and Visualization part I used visuals like Slicers for different year and month view of key Metrices, Table Chart for an Overview , Clustered Bar Chart for comparison of different components and Cards for Important KPIs.
